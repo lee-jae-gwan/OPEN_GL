@@ -65,6 +65,7 @@
   </ImportGroup>
   <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="OpenGL_Debug.props" />
   </ImportGroup>
   <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
@@ -104,7 +105,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>GLEW_STATIC;GLEW_STATIC_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>D:\data\Remote-sensing\OpenGL Tutorial\OpenGL Setup\Dependencies\GLFW\include;D:\data\Remote-sensing\OpenGL Tutorial\OpenGL Setup\Dependencies\GLEW\glew-2.1.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\data\Remote-sensing\OpenGL Tutorial\OPEN_GL\OpenGL Setup\Dependencies\GLFW\include;D:\data\Remote-sensing\OpenGL Tutorial\OPEN_GL\OpenGL Setup\Dependencies\GLEW\glew-2.1.0\include;D:\data\Remote-sensing\OpenGL Tutorial\OPEN_GL\OpenGL Setup\Dependencies\GLAD\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -121,7 +122,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>GLEW_STATIC;GLEW_STATICNDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>D:\data\Remote-sensing\OpenGL Tutorial\OpenGL Setup\Dependencies\GLFW\include;D:\data\Remote-sensing\OpenGL Tutorial\OpenGL Setup\Dependencies\GLEW\glew-2.1.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\data\Remote-sensing\OpenGL Tutorial\OPEN_GL\OpenGL Setup\Dependencies\GLFW\include;D:\data\Remote-sensing\OpenGL Tutorial\OPEN_GL\OpenGL Setup\Dependencies\GLEW\glew-2.1.0\include;D:\data\Remote-sensing\OpenGL Tutorial\OPEN_GL\OpenGL Setup\Dependencies\GLAD\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -133,6 +134,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Dependencies\GLAD\src\glad.c" />
     <ClCompile Include="Sources\main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

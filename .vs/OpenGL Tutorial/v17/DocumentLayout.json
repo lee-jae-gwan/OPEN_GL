@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\data\\Remote-sensing\\OpenGL Tutorial\\OPEN_GL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B076CE0-7583-4B25-B4A8-9EB0FFB208CE}|Hellow Window\\Hellow Window.vcxproj|D:\\data\\Remote-sensing\\OpenGL Tutorial\\OPEN_GL\\OpenGL Setup\\Dependencies\\GLAD\\src\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B076CE0-7583-4B25-B4A8-9EB0FFB208CE}|Hellow Window\\Hellow Window.vcxproj|solutionrelative:OpenGL Setup\\Dependencies\\GLAD\\src\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B076CE0-7583-4B25-B4A8-9EB0FFB208CE}|Hellow Window\\Hellow Window.vcxproj|D:\\data\\Remote-sensing\\OpenGL Tutorial\\OPEN_GL\\Hellow Window\\Hellow Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B076CE0-7583-4B25-B4A8-9EB0FFB208CE}|Hellow Window\\Hellow Window.vcxproj|solutionrelative:Hellow Window\\Hellow Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF23996-12CC-4C6A-9F43-E602687B7AFB}|OpenGL Setup\\OpenGL Setup.vcxproj|D:\\data\\Remote-sensing\\OpenGL Tutorial\\OPEN_GL\\OpenGL Setup\\Sources\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8EF23996-12CC-4C6A-9F43-E602687B7AFB}|OpenGL Setup\\OpenGL Setup.vcxproj|solutionrelative:OpenGL Setup\\Sources\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "glad.c",
+              "DocumentMoniker": "D:\\data\\Remote-sensing\\OpenGL Tutorial\\OPEN_GL\\OpenGL Setup\\Dependencies\\GLAD\\src\\glad.c",
+              "RelativeDocumentMoniker": "OpenGL Setup\\Dependencies\\GLAD\\src\\glad.c",
+              "ToolTip": "D:\\data\\Remote-sensing\\OpenGL Tutorial\\OPEN_GL\\OpenGL Setup\\Dependencies\\GLAD\\src\\glad.c",
+              "RelativeToolTip": "OpenGL Setup\\Dependencies\\GLAD\\src\\glad.c",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAAAOEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-11T05:32:58.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\data\\Remote-sensing\\OpenGL Tutorial\\OPEN_GL\\OpenGL Setup\\Sources\\main.cpp",
+              "RelativeDocumentMoniker": "OpenGL Setup\\Sources\\main.cpp",
+              "ToolTip": "D:\\data\\Remote-sensing\\OpenGL Tutorial\\OPEN_GL\\OpenGL Setup\\Sources\\main.cpp",
+              "RelativeToolTip": "OpenGL Setup\\Sources\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T04:54:04.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hellow Window.cpp",
+              "DocumentMoniker": "D:\\data\\Remote-sensing\\OpenGL Tutorial\\OPEN_GL\\Hellow Window\\Hellow Window.cpp",
+              "RelativeDocumentMoniker": "Hellow Window\\Hellow Window.cpp",
+              "ToolTip": "D:\\data\\Remote-sensing\\OpenGL Tutorial\\OPEN_GL\\Hellow Window\\Hellow Window.cpp",
+              "RelativeToolTip": "Hellow Window\\Hellow Window.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T05:53:21.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
